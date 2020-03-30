@@ -15,6 +15,10 @@ n = points to be randomly generated
 - Time needed to run the algorithm
 - GUI
 
+## Screenshots
+<img src="bin/Input.jpg" height="200"> 
+<img src="bin/output.jpg" height= "400">
+
 ## Acknowledgement
 This project is made to fulfill IF2211 Algorithm and Strategy assignment.
 Created By : Jovan Karuna Cahyadi 
